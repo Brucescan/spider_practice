@@ -1,0 +1,6 @@
+{
+  "dependencies": {
+    "get-random-values": "^3.0.0",
+    "node-encrypt-js": "^1.0.4"
+  }
+}
