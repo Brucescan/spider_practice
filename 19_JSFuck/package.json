@@ -1,0 +1,5 @@
+{
+  "dependencies": {
+    "btoa-atob": "^0.1.2"
+  }
+}
